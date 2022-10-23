@@ -1,0 +1,15 @@
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

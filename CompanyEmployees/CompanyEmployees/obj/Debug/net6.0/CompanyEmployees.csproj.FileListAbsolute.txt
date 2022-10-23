@@ -19,3 +19,11 @@ E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.pdb
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.genruntimeconfig.cache
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\ref\CompanyEmployees.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\nlog.config
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Contracts.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.csproj.CopyComplete
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\NLog.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\LoggerService.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\LoggerService.pdb

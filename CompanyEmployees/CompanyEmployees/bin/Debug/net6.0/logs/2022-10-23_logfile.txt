@@ -1,0 +1,4 @@
+2022-10-23 11:28:10.3634 INFO Here is info message from our values controller.
+2022-10-23 11:28:10.4885 DEBUG Here is debug message from our values controller.
+2022-10-23 11:28:10.4885 WARN Here is warn message from our values controller.
+2022-10-23 11:28:10.4885 ERROR Here is an error message from our values controller.

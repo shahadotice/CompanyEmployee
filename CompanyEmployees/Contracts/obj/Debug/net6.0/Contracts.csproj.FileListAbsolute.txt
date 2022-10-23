@@ -1,0 +1,12 @@
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
