@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

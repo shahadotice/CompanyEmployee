@@ -13,3 +13,5 @@ E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Reposi
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
