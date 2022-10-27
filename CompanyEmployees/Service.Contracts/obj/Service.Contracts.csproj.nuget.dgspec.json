@@ -4,14 +4,14 @@
     "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {}
   },
   "projects": {
-    "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\obj\\",
+        "outputPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,14 +63,14 @@
         }
       }
     },
-    "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+    "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
-        "projectName": "Service.Contracts",
-        "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Service.Contracts\\obj\\",
+        "outputPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +86,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

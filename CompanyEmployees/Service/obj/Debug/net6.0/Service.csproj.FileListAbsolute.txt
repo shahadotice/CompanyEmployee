@@ -17,3 +17,5 @@ E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\obj\Debug\net6.0\Service.d
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\obj\Debug\net6.0\refint\Service.dll
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\obj\Debug\net6.0\Service.pdb
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\obj\Debug\net6.0\ref\Service.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\bin\Debug\net6.0\Shared.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Service\bin\Debug\net6.0\Shared.pdb
