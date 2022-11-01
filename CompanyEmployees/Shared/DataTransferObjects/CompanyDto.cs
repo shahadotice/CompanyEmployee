@@ -15,4 +15,5 @@ namespace Shared.DataTransferObjects
         public string? Name { get; init; }
         public string? FullAddress { get; init; }
     }
+  
 }
