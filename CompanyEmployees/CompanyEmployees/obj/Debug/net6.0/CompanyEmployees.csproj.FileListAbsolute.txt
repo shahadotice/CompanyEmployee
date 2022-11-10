@@ -80,3 +80,6 @@ E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
