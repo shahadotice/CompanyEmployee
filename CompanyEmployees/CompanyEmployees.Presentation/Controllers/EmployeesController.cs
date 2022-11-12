@@ -71,6 +71,7 @@ namespace CompanyEmployees.Presentation_.Controllers
             _service.EmployeeService.SaveChangesForPatch(result.employeeToPatch,
             result.employeeEntity);
             return NoContent();
+
         }
 
     }
