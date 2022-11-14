@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k2Z7vpPVXVg5ksS7USbCA7P0aY6CQdIIaAO+3dlP67b/D7ovAtLh5J1AszhxuGsTtGearJOZCeRyrvN6z3l8Ig==",
+  "dgSpecHash": "jZug9Y0PHfNfMnPH5WcCrdG8y4RMKC8KxdD36WHkrq8VlWtmJotNb38fQrMLiyvINzuhCH8RxDauJb9yYLT4+w==",
   "success": true,
   "projectFilePath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.1\\microsoft.aspnetcore.http.extensions.2.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.11\\microsoft.aspnetcore.jsonpatch.6.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.0\\microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.3\\microsoft.aspnetcore.mvc.abstractions.2.1.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.34\\microsoft.aspnetcore.mvc.core.2.1.34.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.1.1\\microsoft.aspnetcore.responsecaching.abstractions.2.1.1.nupkg.sha512",

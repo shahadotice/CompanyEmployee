@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "CompanyEmployees.Presentation/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.JsonPatch": "6.0.11",
+          "Microsoft.AspNetCore.JsonPatch": "7.0.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.1.34",
           "Service.Contracts": "1.0.0"
         },
@@ -143,15 +143,15 @@
           }
         }
       },
-      "Microsoft.AspNetCore.JsonPatch/6.0.11": {
+      "Microsoft.AspNetCore.JsonPatch/7.0.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {
-            "assemblyVersion": "6.0.11.0",
-            "fileVersion": "6.0.1122.52304"
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51819"
           }
         }
       },
@@ -734,12 +734,12 @@
       "path": "microsoft.aspnetcore.http.features/2.1.1",
       "hashPath": "microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.JsonPatch/6.0.11": {
+    "Microsoft.AspNetCore.JsonPatch/7.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-xrgl+xfCAHGPTEtex/fF/t9jbr4ckBAwB5txVrO+Osn9SdrbypUem2ES946PCAEPWOgcLiAlH/pnsCw7Nv1NAw==",
-      "path": "microsoft.aspnetcore.jsonpatch/6.0.11",
-      "hashPath": "microsoft.aspnetcore.jsonpatch.6.0.11.nupkg.sha512"
+      "sha512": "sha512-svHQiUvLNdI2nac68WNQHNo/ZWyavFpt3Oip09QRnWeFqG9iyakKiNLavXr6KE8y7KxEXZNld96KQYbKz8SJMQ==",
+      "path": "microsoft.aspnetcore.jsonpatch/7.0.0",
+      "hashPath": "microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Mvc.Abstractions/2.1.3": {
       "type": "package",
