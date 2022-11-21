@@ -5,6 +5,7 @@ using Service.Contracts;
 using Service;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace CompanyEmployees.Extensions
 {
     public static class ServiceExtensions
@@ -48,7 +49,7 @@ namespace CompanyEmployees.Extensions
 
 
 
-
+      
 
 
     }
