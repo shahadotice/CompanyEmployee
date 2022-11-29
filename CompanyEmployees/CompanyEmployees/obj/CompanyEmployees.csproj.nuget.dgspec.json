@@ -193,6 +193,9 @@
             "projectReferences": {
               "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\CodeMaze\\CompanyEmployees\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }

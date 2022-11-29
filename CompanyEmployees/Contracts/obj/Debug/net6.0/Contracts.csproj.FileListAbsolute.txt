@@ -13,3 +13,5 @@ E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Con
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
 E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.dll
+E:\CodeMaze\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.pdb
